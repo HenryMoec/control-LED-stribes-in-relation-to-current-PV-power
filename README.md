@@ -8,4 +8,5 @@ Needs:
 Set Up:
 - search for light entity in "Entities"
 - copy entity name in Developertools States
-- have a look to the attributes
+- have a look to the attributes (should be more or less similar to "attributes of the LED device")
+- attributes can be used in an automation as in example 

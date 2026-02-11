@@ -1,4 +1,4 @@
-How to visualize PV Power with a LED strip
+# How to visualize PV Power with a LED strip
 
 Needs:
 - smart LED strip
